@@ -1,7 +1,0 @@
-name = "cf-sub-worker"
-main = "index.js"
-compatibility_date = "2026-04-02"
-# 强制走美国节点，解决GitHub连接问题
-placement = { mode = "manual", regions = ["us-east4"] }
-# 填入你的Account ID
-account_id = "f0f4239b443612997c97370bf574b6af"
